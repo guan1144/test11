@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
+* text=auto
 [user]
     name = guan1144
     email = 1144865381@qq.com
